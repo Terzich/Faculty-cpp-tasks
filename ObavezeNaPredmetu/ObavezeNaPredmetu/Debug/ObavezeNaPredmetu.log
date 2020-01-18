@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\ObavezeNaPredmetu\ObavezeNaPredmetu\Source.cpp(78,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\ObavezeNaPredmetu\ObavezeNaPredmetu\Source.cpp(208,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\ObavezeNaPredmetu\ObavezeNaPredmetu\Source.cpp(246,80): warning C4101: 'datumIntegralni': unreferenced local variable
+  ObavezeNaPredmetu.vcxproj -> C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\ObavezeNaPredmetu\Debug\ObavezeNaPredmetu.exe
