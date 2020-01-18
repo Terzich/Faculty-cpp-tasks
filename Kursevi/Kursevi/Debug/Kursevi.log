@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\Kursevi\Kursevi\Source.cpp(228,103): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\Kursevi\Kursevi\Source.cpp(234,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\Kursevi\Kursevi\Source.cpp(290,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\Kursevi\Kursevi\Source.cpp(254,34): warning C4101: 'indiraSql': unreferenced local variable
+  Kursevi.vcxproj -> C:\Users\TERZICH\Desktop\Ahmed Terzic\Programiranje II & IIII\Kursevi\Debug\Kursevi.exe
