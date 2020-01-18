@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\pc\source\repos\biblioteka\biblioteka\source.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\biblioteka\biblioteka\source.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\biblioteka\biblioteka\source.cpp(328): warning C4552: '-': result of expression not used
+  Biblioteka.vcxproj -> C:\Users\PC\source\repos\Biblioteka\Debug\Biblioteka.exe
